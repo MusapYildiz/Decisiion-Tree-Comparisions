@@ -22,7 +22,7 @@ This repository contains a Jupyter Notebook that demonstrates training and visua
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone https://github.com/MusapYildiz/Decision-Tree-Comparisions.git
    cd REPO_NAME
    ```
 
